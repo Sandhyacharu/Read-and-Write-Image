@@ -35,7 +35,7 @@ ii) #To write the image
 iii) #Find the shape of the Image
 ``python3
 
-
+.
 
 ```
 iv) #To access rows and columns
