@@ -92,4 +92,3 @@ v) #To cut and paste portion of image
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
 
-
