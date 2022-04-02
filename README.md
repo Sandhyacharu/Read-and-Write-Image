@@ -24,30 +24,37 @@ End the program and close the output image windows.
 i) #To Read,display the image
 ```
   import cv2
-
+  color_image = cv2.imread("image.jpg",1)
+  cv2.imshow('212220230041',color_image)
+  cv2.waitKey(0)
+  gray_image = cv2.imread("image.jpg",0)
+  cv2.imshow('212220230041',gray_image)
+  cv2.waitKey(0)
 ```
 ii) #To write the image
 ```
-
-
+cv2.imwrite("image1.jpg",gray_image)
 
 ```
 iii) #Find the shape of the Image
-``python3
-
-.
-
+```
+  color_image.shape
+  gray_image.shape
 ```
 iv) #To access rows and columns
-```python3
-
-
+```
+  import random
+  for i in range (100):
+      for j in range(color_image.shape[1]):
+          color_image[i][j] = [random.randint(0,255),random.randint(0,255),random.randint(0,255)]
 
 ```
 v) #To cut and paste portion of image
-```python3
-
-
+```
+  tag = color_image[100:120,100:120]
+  color_image[80:100,80:100] = tag
+  cv2.imshow('212220230041',color_image)
+  cv2.waitKey(0)
 
 ```
 
