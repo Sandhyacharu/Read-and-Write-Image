@@ -61,44 +61,21 @@ v) #To cut and paste portion of image
 ## Output:
 
 ### i) Read and display the image
-
-<br>
-
 ![image](https://user-images.githubusercontent.com/75235167/161373171-20a693d9-84af-43c6-ac2d-65f28106f051.png)
 
 ![image](https://user-images.githubusercontent.com/75235167/161373280-83324666-c349-41e0-b5a8-205dfbf615e9.png)
 
-<br>
-
 ### ii)Write the image
-
-<br>
-
 ![image](https://user-images.githubusercontent.com/75235167/161373272-6c270be7-83a7-4d38-aa38-803cc5838155.png)
 
-<br>
-
 ### iii)Shape of the Image
-
-<br>
-
 ![image](https://user-images.githubusercontent.com/75235167/161373294-a61dbcfa-e220-446f-b03c-9af4a59aeb25.png)
 
-<br>
-
 ### iv)Access rows and columns
-<br>
-
 ![image](https://user-images.githubusercontent.com/75235167/161373404-b65f8e1b-e863-40bc-a676-5194cd9788aa.png)
 
-<br>
-
 ### v)Cut and paste portion of image
-<br>
-
 ![image](https://user-images.githubusercontent.com/75235167/161373540-f2a22c99-216f-463b-a703-10584d245286.png)
-
-<br>
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
