@@ -84,14 +84,22 @@ v) #To cut and paste portion of image
 <br>
 
 ![image](https://user-images.githubusercontent.com/75235167/161373294-a61dbcfa-e220-446f-b03c-9af4a59aeb25.png)
+
 <br>
 ### iv)Access rows and columns
+
 <br>
+
 ![image](https://user-images.githubusercontent.com/75235167/161373404-b65f8e1b-e863-40bc-a676-5194cd9788aa.png)
+
 <br>
+
 ### v)Cut and paste portion of image
+
 <br>
+
 ![image](https://user-images.githubusercontent.com/75235167/161373540-f2a22c99-216f-463b-a703-10584d245286.png)
+
 <br>
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
