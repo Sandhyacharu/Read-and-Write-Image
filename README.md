@@ -1,4 +1,4 @@
-### EX NO: 02
+### EX NO: 01
 ### DATE:
 # <p align="center">READ AND WRITE AN IMAGE</p>
 ## AIM
